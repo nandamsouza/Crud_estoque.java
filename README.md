@@ -6,7 +6,7 @@
 
 <h1 align="center">Demonstração do projeto🔎</h1>
 <br>
-<div><img src="./img/Animação_crud.gif"></div>
+<div><img src="https://github.com/nandamsouza/Crud_estoque.java/blob/main/img/Anima%C3%A7%C3%A3o_crud.gif"></div>
 <br>
 <h1>⚙️ Ferramentas utilizadas:</h1>
 <p>Para o desenvolvimento desse projeto, foram utilizados os seguintes recursos:</p>
